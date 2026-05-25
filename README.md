@@ -1,4 +1,4 @@
 Estructura de Datos
 ------
 <br>
-Andy Palomares Pinto | 2216270
+Andy Palomares Pintor | 2216270
